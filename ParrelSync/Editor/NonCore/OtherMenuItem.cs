@@ -16,7 +16,7 @@
         [MenuItem("ParrelSync/GitHub/View FAQ", priority = 11)]
         private static void OpenFAQ()
         {
-            Application.OpenURL("https://github.com/314pies/ParrelSync/wiki/FAQ");
+            Application.OpenURL("https://github.com/314pies/ParrelSync/wiki/Troubleshooting-&-FAQs");
         }
 
         [MenuItem("ParrelSync/GitHub/View Issues", priority = 12)]
