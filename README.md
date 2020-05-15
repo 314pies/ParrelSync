@@ -5,9 +5,9 @@ ParrelSync is an Unity editor extension allow user to open several Unity editor 
 <br>
 ![ShortGif](https://raw.githubusercontent.com/314pies/ParrelSync/master/Images/Showcase%201.gif)
 <p align="center">
-<sup><b>Convenient miltiplayer testing: 
+<b>Convenient miltiplayer testing: 
    Test multi-player gameplay without building the project
-</b><sup>
+</b>
 <br>
 </p>
 
@@ -39,7 +39,7 @@ if (ClonesManager.IsClone()) {
 Check out [the doc](https://github.com/314pies/ParrelSync/wiki/List-of-APIs) to view the APIs list.
 
 ## How does it work?
-ParrelSync linked clone's ```Asset```, ```Packages```, ```ProjectSettings``` folder to the  original project by creating a  [symbolic link](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mklink), so that the cloned instance can refer back to the original folder and keep all the asset "sync".  
+ParrelSync linked clone's ```Asset```, ```Packages```, ```ProjectSettings``` folder to the  original project by creating a  [symbolic link](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/mklink), so that the cloned instance can refer back to the original folder and keep all the asset "sync".  Serialization and saving are also blocked on the cloned instance for proecting the original assets.
 All cloned projects are be placed right next to the original project with suffix *"_clone"*. You should see something like this in the folder hierarchy. 
 ```
 /ProjectName
