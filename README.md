@@ -32,7 +32,7 @@ Except the handy UI interface, there's also some useful API for speeding up the 
 Here's a basic example: 
 ```
 if (ClonesManager.IsClone()) {
-  // Auto-connect to localhost if running in cloned editor
+  // Automatically connect to localhost if running in cloned editor
 }
 ```
 Check out [the doc](https://github.com/314pies/ParrelSync/wiki/List-of-APIs) to view the APIs list.
