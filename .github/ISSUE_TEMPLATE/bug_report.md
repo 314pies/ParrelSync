@@ -22,6 +22,7 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots/Video**
 If applicable, add screenshots or video link( Youtube/Vimeo) to help explain the problem.
+(Tips: Image can be pasted directly  from clipboard at Github issues)
 
 **Enviroment (please complete the following information):**
  - Unity Editor Version: [e.g. Windows 2019.3.0f6]
