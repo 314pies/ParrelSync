@@ -1,7 +1,7 @@
 # ParrelSync 
 [![Release](https://img.shields.io/github/v/release/314pies/ParrelSync?include_prereleases)](https://github.com/314pies/ParrelSync/releases) [![Documentation](https://img.shields.io/badge/documentation-brightgreen.svg)](https://github.com/314pies/ParrelSync/wiki) [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/314pies/ParrelSync/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg)](https://github.com/314pies/ParrelSync/pulls) [![Downloads](https://img.shields.io/github/downloads/314pies/ParrelSync/total)](https://github.com/314pies/ParrelSync/releases) [![Downloads](https://img.shields.io/discord/710688100996743200)](https://discord.gg/TmQk2qG) 
 
-ParrelSync is an Unity editor extension allow user to open several Unity editor instance of the same project. Which is very handy when it comes to multiplayer testing.  
+ParrelSync is an Unity editor extension allow user to open several Unity editor instance of the same project, which is very handy when it comes to multiplayer testing.  
 <br>
 ![ShortGif](https://raw.githubusercontent.com/314pies/ParrelSync/master/Images/Showcase%201.gif)
 <p align="center">
