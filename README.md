@@ -1,4 +1,4 @@
-# Note: This repository has been moved to [here](https://github.com/314pies/ParrelSync/releases).
+# Note: This repository has been moved to [here](https://github.com/VeriorPies/ParrelSync).
 
 ![](https://raw.githubusercontent.com/314pies/ParrelSync/master/Images/Showcase%201.gif)
 <p align="center">
